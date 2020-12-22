@@ -1,1 +1,1 @@
-De forma predeterminada, Rust incluye solo unos pocos tipos en el alcance de cada programa en [el *preludio* ] [preludio]<!-- ignorar --> . Si un tipo que desea usar no está en el preludio, debe traer ese tipo al alcance explícitamente con una declaración de `use` .
+De forma predeterminada, Rust incluye solo unos pocos tipos en el alcance de cada programa en [el *preludio* ] [preludio]<!-- &lt;!----&gt; --> . Si un tipo que desea usar no está en el preludio, debe traer ese tipo al alcance explícitamente con una declaración de `use` .
